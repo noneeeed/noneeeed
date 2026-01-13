@@ -41,6 +41,8 @@
     The Interface: Crafting the web via JavaScript.
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noneeeed&layout=compact&theme=radical)
+
+
 ![Streak Stats](https://github-readme-streak-stats-eight.vercel.app/?user=noneeeed&theme=radical)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mystery+Quest&size=40&pause=1000&color=7B00F7&background=FFFFFF&center=true&vCenter=true&width=435&lines=I+Could+Be+Your+F1+Button)](https://git.io/typing-svg)
