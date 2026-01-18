@@ -10,7 +10,7 @@
     
 ✨ My Creative Tech Journey ✨
 
-    🎮 **The Player's Heart** (url)
+    🎮 **The Player's Heart**
 
         Immersed in the world of Video Games.
 
