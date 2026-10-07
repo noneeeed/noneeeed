@@ -1,11 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mystery+Quest&size=40&pause=1000&color=7B00F7&background=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there+and+welcome)](https://git.io/typing-svg)
 
-Hi, I'm Bader
+My name is Bader
 
 Junior data engineer in Kampen, the Netherlands. I build batch data pipelines with Python, SQL, dbt, Airflow, Databricks and Azure. In 2026 I completed the HackYourFuture Core Program and Data Track.
-
-Before tech, I ran two electronics stores in Homs for almost four years and kept the sales, purchase and stock records on paper. I also led a 15-person team collecting data on local NGOs. That is where my interest in reliable data started.
-
 I'm looking for a junior data engineering role in the Netherlands, hybrid or remote.
 
 Projects
@@ -40,9 +37,6 @@ Storage: PostgreSQL, Azure Data Lake Storage, Azure Blob Storage, SQLite
 Cloud and DevOps: Azure Container Apps, Container Registry, Key Vault, Docker, GitHub Actions, Bicep
 Testing: pytest, dbt tests, ruff
 Dashboards: Metabase, Streamlit
-Outside work
-
-I captained Syria's Dota 2 team for four years. In my spare time I have been learning to run generative AI models such as Stable Diffusion and Ollama locally.
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noneeeed&layout=compact&theme=radical)
 
