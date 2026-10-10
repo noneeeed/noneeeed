@@ -20,7 +20,6 @@ Python · SQL · dbt · Databricks · Airflow · PostgreSQL · Azure Data Lake S
 -Steam News Pipeline
 
 Daily ETL job I built solo during the Data Track. It pulls Dota 2 news from the Steam Web API, validates it with Pydantic, cleans it with pandas and loads it into PostgreSQL idempotently, so re-runs never duplicate rows. The raw JSON is backed up to Azure Blob Storage, and the job runs in Docker on a schedule in Azure Container Apps.
-
 Python · pandas · Pydantic · PostgreSQL · Docker · Azure · GitHub Actions
 
 --Data Track assignments
