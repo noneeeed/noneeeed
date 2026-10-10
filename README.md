@@ -26,11 +26,17 @@ Python · pandas · Pydantic · PostgreSQL · Docker · Azure · GitHub Actions
 --Data Track assignments
 
 -Audited NYC taxi data for duplicates, nulls and orphaned keys, then modeled it as a star schema of views	
--dbt,	A tested mart at one row per borough per day, with staging models and a custom macro	Week 10
--Dashboards,	A Metabase dashboard and a Streamlit metrics app on the same marts, with documented metrics	Week 11
--Orchestration,	An Airflow DAG (ingest, dbt run, dbt test) with retries and backfills, deployed to a shared Airflow instance	Week 12
--Databricks,	PySpark exploration, incremental dbt models on Delta Lake and a Git-backed Databricks Job	Week 13
--Infrastructure as code,	Azure storage deployed with Bicep from GitHub Actions, with a what-if preview on every pull request	Week 14
+
+-dbt,	A tested mart at one row per borough per day, with staging models and a custom macro
+
+-Dashboards,	A Metabase dashboard and a Streamlit metrics app on the same marts, with documented metrics
+
+-Orchestration,	An Airflow DAG (ingest, dbt run, dbt test) with retries and backfills, deployed to a shared Airflow instance
+
+-Databricks,	PySpark exploration, incremental dbt models on Delta Lake and a Git-backed Databricks Job
+
+-Infrastructure as code,	Azure storage deployed with Bicep from GitHub Actions, with a what-if preview on every pull request
+
 --Stack
 Languages: Python, SQL, JavaScript
 Data: dbt, Apache Airflow, Databricks, PySpark, Delta Lake, pandas, Pydantic
