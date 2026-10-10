@@ -5,9 +5,9 @@ My name is Bader
 Junior data engineer in Kampen, the Netherlands. I build batch data pipelines with Python, SQL, dbt, Airflow, Databricks and Azure. In 2026 I completed the HackYourFuture Core Program and Data Track.
 I'm looking for a junior data engineering role in the Netherlands, hybrid or remote.
 
--Projects
+--Projects
 
---JobMatch · live demo
+-JobMatch · live demo
 
 Job search app for the Dutch market, built by a 6-person team as our HackYourFuture final project. I worked on the data layer:
 
@@ -17,7 +17,7 @@ Ingestion from the FreeHire API, up to 5,000 postings per run, with exponential 
 
 Python · SQL · dbt · Databricks · Airflow · PostgreSQL · Azure Data Lake Storage
 
---Steam News Pipeline
+-Steam News Pipeline
 
 Daily ETL job I built solo during the Data Track. It pulls Dota 2 news from the Steam Web API, validates it with Pydantic, cleans it with pandas and loads it into PostgreSQL idempotently, so re-runs never duplicate rows. The raw JSON is backed up to Azure Blob Storage, and the job runs in Docker on a schedule in Azure Container Apps.
 
