@@ -39,11 +39,17 @@ Python · pandas · Pydantic · PostgreSQL · Docker · Azure · GitHub Actions
 
 --Stack
 Languages: Python, SQL, JavaScript
+
 Data: dbt, Apache Airflow, Databricks, PySpark, Delta Lake, pandas, Pydantic
+
 Storage: PostgreSQL, Azure Data Lake Storage, Azure Blob Storage, SQLite
+
 Cloud and DevOps: Azure Container Apps, Container Registry, Key Vault, Docker, GitHub Actions, Bicep
+
 Testing: pytest, dbt tests, ruff
+
 Dashboards: Metabase, Streamlit
+
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noneeeed&layout=compact&theme=radical)
 
