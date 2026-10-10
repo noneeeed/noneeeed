@@ -12,8 +12,10 @@ I'm looking for a junior data engineering role in the Netherlands, hybrid or rem
 Job search app for the Dutch market, built by a 6-person team as our HackYourFuture final project. I worked on the data layer:
 
 Ingestion from the FreeHire API, up to 5,000 postings per run, with exponential backoff on timeouts, 429 and 5xx errors
+
 7 of the project's 12 dbt models on Databricks, including staging deduplication with a ROW_NUMBER() window and tables with one row per posting and skill, city or requirement for the app's filters
-13 dbt tests, a skill popularity mart, and a daily Airflow DAG that publishes five marts to the app's PostgreSQL database
+
+dbt tests and a daily Airflow DAG that publishes five marts to the app's PostgreSQL database
 
 Python · SQL · dbt · Databricks · Airflow · PostgreSQL · Azure Data Lake Storage
 
