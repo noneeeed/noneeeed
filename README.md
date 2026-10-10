@@ -6,6 +6,7 @@ Junior data engineer in Kampen, the Netherlands. I build batch data pipelines wi
 I'm looking for a junior data engineering role in the Netherlands, hybrid or remote.
 
 -Projects
+
 --JobMatch · live demo
 
 Job search app for the Dutch market, built by a 6-person team as our HackYourFuture final project. I worked on the data layer:
